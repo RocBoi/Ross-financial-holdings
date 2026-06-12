@@ -1,0 +1,15 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="150" cy="150" r="130"
+ fill="none"
+ stroke="#D4AF37"
+ stroke-width="4"/>
+
+ <text x="150"
+ y="160"
+ text-anchor="middle"
+ fill="#D4AF37"
+ font-size="64"
+ font-family="Cinzel">
+ RLTF
+ </text>
+</svg>
